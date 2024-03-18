@@ -17,7 +17,7 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-gray-200 hidden md:block">
-            Hii, I'm Rahul Pal .Proficient in both front-end and back-end technologies,I specialize in crafting visually stunning and user-friendly web applications. With a strong foundation in HTML, CSS, JavaScript, and popular frameworks like React and Node.js,Passionate about staying at the forefront of technology trends, I am dedicated to continuously honing my skills and pushing the boundaries of what's possible in web development.
+            Hii, I am Rahul Pal .Proficient in both front-end and back-end technologies,I specialize in crafting visually stunning and user-friendly web applications. With a strong foundation in HTML, CSS, JavaScript, and popular frameworks like React and Node.js,Passionate about staying at the forefront of technology trends, I am dedicated to continuously honing my skills and pushing the boundaries of what is possible in web development.
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link
@@ -30,14 +30,14 @@ export default function Home() {
               href="/my-projects"
               className="rounded-[20px] group relative bg-trasparent px-5 border border-white py-3 text-lg text-white max-w-[200px]"
             >
-              <div className="absolute rounded-[20px] z-[1] bg-white inset-0 opacity-0 group-hver:opacity-20" />
+              <div className="absolute rounded-[20px] z-[1] bg-white inset-0 opacity-0 group-hover:opacity-20" />
               My projects
             </Link>
             <Link
               href="/contact-me"
               className="rounded-[20px] group relative bg-trasparent border border-white px-5 py-3 text-lg text-white max-w-[200px]"
             >
-              <div className="absolute rounded-[20px] z-[1] bg-white inset-0 opacity-0 group-hver:opacity-20" />
+              <div className="absolute rounded-[20px] z-[1] bg-white inset-0 opacity-0 group-hover:opacity-20" />
               Contact me
             </Link>
           </div>
