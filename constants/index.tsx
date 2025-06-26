@@ -93,12 +93,12 @@ export const Socials = [
 export const Projects = [
   {
     title: "Prep Pulse",
-    text: "Prep Pulse is an AI-powered mock interview SaaS platform built using Next.js and React. It simulates real interview experiences by integrating Gemini AI, allowing users to practice and improve their responses in a realistic, interactive environment. It features secure authentication with Clerk, scalable backend operations via Drizzle ORM, and is deployed using Vercel.",
+    text: "Prep Pulse is an AI-powered mock interview SaaS platform built using Next.js and React. It simulates real interview experiences by integrating Gemini AI.",
     src: "/Prep_Pulse.png",
   },
   {
     title: "Sarvajna AI",
-    text: "Sarvajna AI is a real-time query assistant built with React.js that delivers instant responses through a REST API backend. It uses Context API and hooks for efficient state management and Tailwind CSS for responsive, accessible UI. The project emphasizes smooth user interaction and robust frontend engineering.",
+    text: "Sarvajna AI is a real-time query assistant built with React.js that delivers instant responses through a REST API backend.",
     src: "/Sarvajna.png",
   },
   {
